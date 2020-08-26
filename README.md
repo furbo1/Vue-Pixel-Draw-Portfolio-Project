@@ -1,4 +1,4 @@
-# pixel
+
 
 ## Project setup
 ```
